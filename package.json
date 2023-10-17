@@ -1,0 +1,26 @@
+{
+  "name": "noise-ts",
+  "version": "1.0.0",
+  "description": "A simple library for 2D and 3D simplex noise and perlin noise in TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanhosni/noise-ts.git"
+  },
+  "keywords": [
+    "simplex",
+    "perlin",
+    "seed",
+    "noise",
+    "typescript"
+  ],
+  "author": "Evan Hosni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanhosni/noise-ts/issues"
+  },
+  "homepage": "https://github.com/evanhosni/noise-ts#readme"
+}
