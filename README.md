@@ -2,7 +2,7 @@
 
 A simple library for 2D and 3D simplex noise and perlin noise in typescript
 
-This is a TypeScript implementation of [`josephg/noisejs`](https://github.com/josephg/noisejs) and wrapped as a class. Slightly modified from [`alanko0511/noisejs-typescript`](https://github.com/alanko0511/noisejs-typescript).
+This is a TypeScript implementation of [`josephg/noisejs`](https://github.com/josephg/noisejs). Slightly modified from [`alanko0511/noisejs-typescript`](https://github.com/alanko0511/noisejs-typescript).
 
 ## Installation
 ```python
