@@ -1,6 +1,6 @@
 # noise-ts
 
-A simple library for 2D and 3D simplex noise and perlin noise in typescript
+A simple library for 2D and 3D simplex noise and perlin noise in TypeScript.
 
 This is a TypeScript implementation of [`josephg/noisejs`](https://github.com/josephg/noisejs). Slightly modified from [`alanko0511/noisejs-typescript`](https://github.com/alanko0511/noisejs-typescript).
 
