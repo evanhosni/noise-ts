@@ -2,7 +2,7 @@
   "name": "noise-ts",
   "version": "1.0.0",
   "description": "A simple library for 2D and 3D simplex noise and perlin noise in TypeScript",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
